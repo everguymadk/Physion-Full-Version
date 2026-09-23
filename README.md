@@ -241,4 +241,4 @@ This repository serves as the official landing page for Physion. The software is
 **Get the most recent version of Physion today!**
 
 ---
-**Last updated:** 2026-09-22 23:19:45 UTC
+**Last updated:** 2026-09-23 02:00:41 UTC
